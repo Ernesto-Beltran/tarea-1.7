@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustración de ejemplo</title>
+  <desc id="desc">Un paisaje sencillo con sol, montaña y lago.</desc>
+  <rect width="400" height="220" fill="#dff3ff"/>
+  <circle cx="310" cy="60" r="34" fill="#ffd166"/>
+  <path d="M0 160 L120 90 L210 150 L310 80 L400 160 L400 220 L0 220 Z" fill="#7aa2ff"/>
+  <path d="M0 180 C120 130, 180 150, 240 180 S340 210, 400 180 L400 220 L0 220 Z" fill="#5fa8a8"/>
+  <rect x="0" y="180" width="400" height="40" fill="#e6f4ea"/>
+</svg>
